@@ -5,7 +5,7 @@ Platform Details
 Linux 334907abd4f4 6.8.0-47-generic #47-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep 27 21:40:26 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
 ------------------------------------------------------------
 2. w
- 19:56:39 up 1 day,  3:16,  0 users,  load average: 0.97, 6.90, 28.18
+ 21:25:58 up 1 day,  4:46,  0 users,  load average: 5.32, 2.16, 1.44
 USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
 ------------------------------------------------------------
 3. Username
@@ -41,7 +41,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.000
+cpu MHz		: 797.444
 cache size	: 327680 KB
 physical id	: 0
 siblings	: 128
@@ -1217,7 +1217,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.000
+cpu MHz		: 799.616
 cache size	: 327680 KB
 physical id	: 0
 siblings	: 128
@@ -1833,7 +1833,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 770.917
+cpu MHz		: 800.000
 cache size	: 327680 KB
 physical id	: 1
 siblings	: 128
@@ -1917,7 +1917,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.000
+cpu MHz		: 800.020
 cache size	: 327680 KB
 physical id	: 1
 siblings	: 128
@@ -1973,7 +1973,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.000
+cpu MHz		: 800.035
 cache size	: 327680 KB
 physical id	: 1
 siblings	: 128
@@ -2253,7 +2253,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.000
+cpu MHz		: 800.050
 cache size	: 327680 KB
 physical id	: 1
 siblings	: 128
@@ -2337,7 +2337,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.000
+cpu MHz		: 799.984
 cache size	: 327680 KB
 physical id	: 1
 siblings	: 128
@@ -2477,7 +2477,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.000
+cpu MHz		: 800.263
 cache size	: 327680 KB
 physical id	: 1
 siblings	: 128
@@ -3933,7 +3933,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.482
+cpu MHz		: 800.000
 cache size	: 327680 KB
 physical id	: 0
 siblings	: 128
@@ -3961,7 +3961,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.176
+cpu MHz		: 800.008
 cache size	: 327680 KB
 physical id	: 0
 siblings	: 128
@@ -4101,7 +4101,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.428
+cpu MHz		: 800.000
 cache size	: 327680 KB
 physical id	: 0
 siblings	: 128
@@ -4129,7 +4129,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.181
+cpu MHz		: 800.000
 cache size	: 327680 KB
 physical id	: 0
 siblings	: 128
@@ -4157,7 +4157,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.497
+cpu MHz		: 800.000
 cache size	: 327680 KB
 physical id	: 0
 siblings	: 128
@@ -4185,7 +4185,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.773
+cpu MHz		: 800.000
 cache size	: 327680 KB
 physical id	: 0
 siblings	: 128
@@ -6145,7 +6145,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.000
+cpu MHz		: 800.520
 cache size	: 327680 KB
 physical id	: 1
 siblings	: 128
@@ -6173,7 +6173,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.000
+cpu MHz		: 800.552
 cache size	: 327680 KB
 physical id	: 1
 siblings	: 128
@@ -6341,7 +6341,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.000
+cpu MHz		: 800.190
 cache size	: 327680 KB
 physical id	: 1
 siblings	: 128
@@ -6733,7 +6733,7 @@ model		: 207
 model name	: INTEL(R) XEON(R) PLATINUM 8592+
 stepping	: 2
 microcode	: 0x21000230
-cpu MHz		: 800.000
+cpu MHz		: 800.198
 cache size	: 327680 KB
 physical id	: 1
 siblings	: 128
@@ -7249,10 +7249,10 @@ Vulnerability Tsx async abort:        Not affected
 available: 2 nodes (0-1)
 node 0 cpus: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191
 node 0 size: 515636 MB
-node 0 free: 372658 MB
+node 0 free: 373146 MB
 node 1 cpus: 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255
 node 1 size: 515997 MB
-node 1 free: 460823 MB
+node 1 free: 461922 MB
 node distances:
 node   0   1 
   0:  10  21 
@@ -7260,46 +7260,46 @@ node   0   1
 ------------------------------------------------------------
 9. /proc/meminfo
 MemTotal:       1056393528 kB
-MemFree:        853486036 kB
-MemAvailable:   1037323920 kB
-Buffers:          500556 kB
-Cached:         185649000 kB
+MemFree:        855109720 kB
+MemAvailable:   1039085960 kB
+Buffers:          503964 kB
+Cached:         185782628 kB
 SwapCached:            0 kB
-Active:         15021856 kB
-Inactive:       176288116 kB
-Active(anon):    5182892 kB
+Active:         13125944 kB
+Inactive:       176423220 kB
+Active(anon):    3285068 kB
 Inactive(anon):        0 kB
-Active(file):    9838964 kB
-Inactive(file): 176288116 kB
+Active(file):    9840876 kB
+Inactive(file): 176423220 kB
 Unevictable:       36572 kB
 Mlocked:           27572 kB
 SwapTotal:       8388604 kB
 SwapFree:        8388604 kB
 Zswap:                 0 kB
 Zswapped:              0 kB
-Dirty:               672 kB
-Writeback:             0 kB
-AnonPages:       5194908 kB
-Mapped:           368200 kB
-Shmem:             13780 kB
-KReclaimable:    4387000 kB
-Slab:            6917904 kB
-SReclaimable:    4387000 kB
-SUnreclaim:      2530904 kB
-KernelStack:       56176 kB
-PageTables:       120432 kB
+Dirty:                68 kB
+Writeback:            68 kB
+AnonPages:       3298520 kB
+Mapped:           368168 kB
+Shmem:             13796 kB
+KReclaimable:    4388340 kB
+Slab:            6910668 kB
+SReclaimable:    4388340 kB
+SUnreclaim:      2522328 kB
+KernelStack:       55136 kB
+PageTables:        80812 kB
 SecPageTables:         0 kB
 NFS_Unstable:          0 kB
 Bounce:                0 kB
 WritebackTmp:          0 kB
 CommitLimit:    536585368 kB
-Committed_AS:    4913488 kB
+Committed_AS:    3998260 kB
 VmallocTotal:   13743895347199 kB
-VmallocUsed:      560940 kB
+VmallocUsed:      561208 kB
 VmallocChunk:          0 kB
-Percpu:           555008 kB
+Percpu:           615424 kB
 HardwareCorrupted:     0 kB
-AnonHugePages:   1419264 kB
+AnonHugePages:    768000 kB
 ShmemHugePages:        0 kB
 ShmemPmdMapped:        0 kB
 FileHugePages:         0 kB
@@ -7311,8 +7311,8 @@ HugePages_Rsvd:        0
 HugePages_Surp:        0
 Hugepagesize:       2048 kB
 Hugetlb:               0 kB
-DirectMap4k:    13683472 kB
-DirectMap2M:    260620288 kB
+DirectMap4k:    13751056 kB
+DirectMap2M:    260552704 kB
 DirectMap1G:    801112064 kB
 ------------------------------------------------------------
 10. who -r
@@ -7574,16 +7574,16 @@ dev.tty.ldisc_autoload = 1
 dev.tty.legacy_tiocsti = 0
 fs.aio-max-nr = 65536
 fs.aio-nr = 0
-fs.dentry-state = 3890386	3789359	45	0	1370204	0
+fs.dentry-state = 3892401	3791087	45	0	1372088	0
 fs.dir-notify-enable = 1
 fs.epoll.max_user_watches = 235145995
 fs.fanotify.max_queued_events = 16384
 fs.fanotify.max_user_groups = 128
 fs.fanotify.max_user_marks = 1048576
 fs.file-max = 9223372036854775807
-fs.file-nr = 24096	0	9223372036854775807
-fs.inode-nr = 2414548	19295
-fs.inode-state = 2414548	19295	0	0	0	0	0
+fs.file-nr = 23584	0	9223372036854775807
+fs.inode-nr = 2414876	19305
+fs.inode-state = 2414876	19305	0	0	0	0	0
 fs.inotify.max_queued_events = 16384
 fs.inotify.max_user_instances = 128
 fs.inotify.max_user_watches = 1048576
@@ -7695,7 +7695,7 @@ kernel.msgmnb = 16384
 kernel.msgmni = 32000
 kernel.ngroups_max = 65536
 kernel.nmi_watchdog = 1
-kernel.ns_last_pid = 63773
+kernel.ns_last_pid = 82598
 kernel.numa_balancing = 1
 kernel.numa_balancing_promote_rate_limit_MBps = 65536
 kernel.oops_all_cpu_backtrace = 0
@@ -7726,13 +7726,13 @@ kernel.printk_devkmsg = on
 kernel.printk_ratelimit = 5
 kernel.printk_ratelimit_burst = 10
 kernel.pty.max = 4096
-kernel.pty.nr = 23
+kernel.pty.nr = 20
 kernel.pty.reserve = 1024
 kernel.random.boot_id = bdcecd95-9037-4872-9f6f-b22e1ebc6ab9
 kernel.random.entropy_avail = 256
 kernel.random.poolsize = 256
 kernel.random.urandom_min_reseed_secs = 60
-kernel.random.uuid = 0b59d9b5-0f23-416f-bc18-588c60c116a1
+kernel.random.uuid = dc07f23f-7d6e-4fcb-9171-44230aba2a90
 kernel.random.write_wakeup_threshold = 256
 kernel.randomize_va_space = 2
 kernel.real-root-dev = 0
