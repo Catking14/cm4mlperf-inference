@@ -41,7 +41,7 @@ cm run script \
 	--env.CM_SKIP_PREPROCESS_DATASET=yes \
 	--env.LD_LIBRARY_PATH=/opt/hpcx/ucx/lib:/opt/hpcx/ucc/lib:/usr/local/lib/python3.10/dist-packages/torch/lib:/usr/local/lib/python3.10/dist-packages/torch_tensorrt/lib:/usr/local/cuda/compat/lib:/usr/local/nvidia/lib:/usr/local/nvidia/lib64 \
 	--env.CM_SKIP_NVMITTEN=yes \
-	--test_query_count=10 \
+	--test_query_count=5000 \
 	--clean
 ```
 *Note that if you want to use the [latest automation recipes](https://docs.mlcommons.org/inference) for MLPerf (CM scripts),
@@ -65,4 +65,4 @@ Model Precision: int8
 `FID_SCORE`: `23.67816`, Required accuracy for closed division `>= 23.01086` and `<= 23.95008`
 
 ### Performance Results 
-`Samples per second`: `1.35957`
+`Samples per second`: `4.2742`
